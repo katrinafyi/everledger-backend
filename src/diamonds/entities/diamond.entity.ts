@@ -1,27 +1,28 @@
 export enum Color {
-  D,
-  G,
-  J,
-  K,
-  N,
-  S,
-  Z,
+  D = 'D',
+  G = 'G',
+  J = 'J',
+  K = 'K',
+  N = 'N',
+  S = 'S',
+  Z = 'Z',
 }
 
 export enum Cut {
-  GD,
+  GD = 'GD',
+  D = 'D',
 }
 
 export enum Clarity {
-  IF,
-  VVS1,
-  VVS2,
-  VS1,
-  VS2,
-  SI1,
-  SI2,
-  I1,
-  I2,
+  IF = 'IF',
+  VVS1 = 'VVS1',
+  VVS2 = 'VVS2',
+  VS1 = 'VS1',
+  VS2 = 'VS2',
+  SI1 = 'SI1',
+  SI2 = 'SI2',
+  I1 = 'I1',
+  I2 = 'I1',
 }
 
 export class Diamond {
