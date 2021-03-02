@@ -14,3 +14,9 @@
   "caratWeight": 0.8
 }
 ```
+
+## Design
+
+### Health
+
+- Assume returning uptime in milliseconds is sufficient.
